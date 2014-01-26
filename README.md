@@ -29,4 +29,4 @@ Steps to Build and Run the App
 
 Questions, Suggestions or Any Feedback?
 --------------------------------
-Contact me via email at xjefftang@gmail or https://plus.google.com/+JeffTangX
+Contact me via email at xjefftang@gmail.com or https://plus.google.com/+JeffTangX
